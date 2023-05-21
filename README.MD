@@ -23,3 +23,5 @@
 
 
 ## Github, Gitlab, Bitbucket, Sourceforge
+
+- Estas son las plataformas mas conocidas para hacer uso de control de versiones, y tambien para uso de servidores locales.
